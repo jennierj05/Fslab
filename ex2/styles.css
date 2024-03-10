@@ -1,0 +1,10 @@
+body,h1,p{
+	         font-family:arial,sans-serif;
+           font-size: medium;
+           text-align: center;
+           color:black
+			 
+}
+body,div {
+  background-color: pink
+}
